@@ -1,1 +1,1 @@
-var q = require('q')
+var a = 0;
